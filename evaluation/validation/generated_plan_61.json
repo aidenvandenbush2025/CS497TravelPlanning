@@ -1,0 +1,6 @@
+[
+    {
+        "gpt-3.5-turbo-1106_direct_sole-planning_results": "Day 1:\nCurrent City: New York\nTransportation: Flight Number: F3767722, from New York to Reno, Departure Time: 21:02, Arrival Time: 00:07\nAccommodation: Bedroom with private access to patio, Reno\n\nDay 2:\nCurrent City: Reno\nAttraction: Nevada Museum of Art, Reno\nLunch: Nagaland, Reno\nAttraction: The Discovery, Reno\nDinner: Olive Bistro, Reno\nAccommodation: A bright, beautiful treehouse, Reno\n\nDay 3:\nCurrent City: Reno\nAttraction: National Automobile Museum, Reno\nLunch: Mustake Multicuisine Restaurant, Reno\nAttraction: Rancho San Rafael Regional Park, Reno\nDinner: Perch Wine & Coffee Bar, Reno\nTransportation: Flight Number: F3765934, from Reno to New York, Departure Time: 01:59, Arrival Time: 10:10",
+        "mistral-7B-32K_direct_sole-planning_results": "Day 1:\nCurrent City: from New York to Reno\nTransportation: Flight Number: F3767722, from New York to Reno, Departure Time: 21:02, Arrival Time: 00:07 (+1 day), March 15th, 2"
+    }
+]

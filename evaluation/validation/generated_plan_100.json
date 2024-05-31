@@ -1,0 +1,6 @@
+[
+    {
+        "gpt-3.5-turbo-1106_direct_sole-planning_results": "Day 1:\nCurrent City: Myrtle Beach\nTransportation: Self-driving, from Myrtle Beach to Nashville, Duration: 9 hours 11 mins, Distance: 949 km, Cost: $47\nAccommodation: Large, sunny, private studio Apt 2R, Nashville\n\nDay 2:\nCurrent City: Nashville\nAttraction: Country Music Hall of Fame and Museum, Nashville\nLunch: The Gathering Hut, Memphis\nDinner: Sultans of Spice, Memphis\nAccommodation: ~*PLANT HAVEN*~ Private Room - Charming Garden Apt, Memphis\n\nDay 3:\nCurrent City: Memphis\nAttraction: National Civil Rights Museum, Memphis\nLunch: The Coffee Bean & Tea Leaf, Memphis\nDinner: Crust Stone Oven Pizza, Memphis\nAccommodation: Cozy Brooklyn Studio, Memphis\n\nDay 4:\nCurrent City: Memphis\nTransportation: Self-driving, from Memphis to Myrtle Beach, Duration: 11 hours 12 mins, Distance: 1,199 km, Cost: $59\nAccommodation: Beautiful, bright and friendly, Myrtle Beach\n\nDay 5:\nCurrent City: Myrtle Beach\n-",
+        "mistral-7B-32K_direct_sole-planning_results": "Day 1:\nCurrent City: from Myrtle Beach to Nashville\nTransportation: Flight Number: F39790"
+    }
+]
